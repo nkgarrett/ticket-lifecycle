@@ -57,24 +57,24 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 2. Assignment and Communication<br>
   - Update priority level<br><br>
-    - <img src="https://github.com/nkgarrett/ticket-lifecycle/assets/156832893/fe1d6357-748f-4983-8283-55f8f102c955" width="400 px"><br>
+    <img src="https://github.com/nkgarrett/ticket-lifecycle/assets/156832893/fe1d6357-748f-4983-8283-55f8f102c955" width="400 px"><br>
   - Assign to proper agent<br><br>
-    - <img src="https://github.com/nkgarrett/ticket-lifecycle/assets/156832893/326ef50e-0ec6-4b8b-8f50-62f59f12dba1" width="400 px"><br>
+    <img src="https://github.com/nkgarrett/ticket-lifecycle/assets/156832893/326ef50e-0ec6-4b8b-8f50-62f59f12dba1" width="400 px"><br>
   - Update SLA<br><br>
-    - <img src="https://github.com/nkgarrett/ticket-lifecycle/assets/156832893/2b801614-8473-48f6-ba9e-c9c3e7bc5db1" width="400 px"><br>
+    <img src="https://github.com/nkgarrett/ticket-lifecycle/assets/156832893/2b801614-8473-48f6-ba9e-c9c3e7bc5db1" width="400 px"><br>
   - Assign to proper department<br><br>
-    - <img src="https://github.com/nkgarrett/ticket-lifecycle/assets/156832893/8af0bbba-0101-428f-9103-5e8338357f26" width="400 px"><br>
+    <img src="https://github.com/nkgarrett/ticket-lifecycle/assets/156832893/8af0bbba-0101-428f-9103-5e8338357f26" width="400 px"><br>
 
 <br />
 
 
 3. Working the Issue<br>
   - Post a reply<br><br>
-    - <img src="https://github.com/nkgarrett/ticket-lifecycle/assets/156832893/c42a2814-9cab-4a96-a94b-18c1e53f5725" width="400 px"><br>
+    <img src="https://github.com/nkgarrett/ticket-lifecycle/assets/156832893/c42a2814-9cab-4a96-a94b-18c1e53f5725" width="400 px"><br>
 
 <br />
 
 4. Resolution<br>
   - Post a reply on how/who resolved the issue<br>
   - Set ticket status to closed<br><br>
-    - <img src="https://github.com/nkgarrett/ticket-lifecycle/assets/156832893/0f400c00-5177-4216-b3db-a6d7a285c083" width="400 px"><br>
+    <img src="https://github.com/nkgarrett/ticket-lifecycle/assets/156832893/0f400c00-5177-4216-b3db-a6d7a285c083" width="400 px"><br>
