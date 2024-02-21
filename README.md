@@ -36,6 +36,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 4. Resolution<br>
   - Post a reply on how/who resolved the issue
   - Set ticket status to closed
+5. Work and triage different ticket examples
 
 <h2>Lifecycle Stages</h2>
 
